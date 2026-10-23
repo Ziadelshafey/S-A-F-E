@@ -1,0 +1,5 @@
+{
+  "verified": false,
+  "_comment": "UNVERIFIED. Alphabetical order = what Keras flow_from_directory produces. Replace with the real class_indices from your training run, then set verified=true.",
+  "labels": ["Bear","Bird","Cat","Cow","Deer","Dog","Elephant","Fox","Horse","Kangaroo","Lion","Panda","Tiger","Wolf","Zebra"]
+}
